@@ -39,6 +39,7 @@ When I’m not analyzing datasets, you’ll probably find me brainstorming ideas
 
 - Google Fundamentals of Digital Marketing  
 - MATLAB Programming & Data Visualization (MathWorks)
+- AWS Partner: Sales Accreditation (Business)
 
 ---
 
