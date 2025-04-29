@@ -4,7 +4,7 @@
 
 ---
 
-I'm currently pursuing my Master's in **Business Analytics** at LUT University, Finland — with a passion for transforming data into decisions that matter.  
+I've completed master ddegree in Business Analytics** at LUT University, Finland — with a passion for transforming data into decisions that matter.  
 I come from a finance background, and now I enjoy working at the intersection of **economics, public policy**, and **data science**.  
 When I’m not analyzing datasets, you’ll probably find me brainstorming ideas to solve real-world impact problems.
 
