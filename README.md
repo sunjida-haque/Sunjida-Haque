@@ -21,7 +21,7 @@ When I’m not analyzing datasets, you’ll probably find me brainstorming ideas
 
 ## 🚀 What I Do
 
-- 🔍 **Business Development Executive @ Pansoft Technologies**
+- 🔍 **Junior Business Analyst @ Pansoft Technologies**
   - Fintech & IT solutions, client engagement, CRM, and delivery alignment.
 - 📈 **Data Analyst (Past) @ WorkTrooper**
   - Web scraping, communication bridging, technician scheduling across USA & Canada.
