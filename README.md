@@ -10,7 +10,7 @@ When I’m not analyzing datasets, you’ll probably find me brainstorming ideas
 
 ---
 
-## 📌 Snapshot of Me
+##  Snapshot of Me
 
 
 - 🎓 100% LUT scholarship holder  
@@ -19,7 +19,7 @@ When I’m not analyzing datasets, you’ll probably find me brainstorming ideas
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
 - 🔍 **Junior Business Analyst @ Pansoft Technologies**
   - Fintech & IT solutions, client engagement, CRM, and delivery alignment.
@@ -29,13 +29,13 @@ When I’m not analyzing datasets, you’ll probably find me brainstorming ideas
 
 ---
 
-## 💡 Technical Toolbox
+##  Technical Toolbox
 
 `MATLAB` · `Python` · `R` · `SQL` · `O365` · `Tableau` · `SAP ECC` · `STATA` · `KNIME`· `Power BI`· `Tableau`
 
 ---
 
-## 🎓 Certified in
+##  Certified in
 
 - Google Fundamentals of Digital Marketing  
 - MATLAB Programming & Data Visualization (MathWorks)
