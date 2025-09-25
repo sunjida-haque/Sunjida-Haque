@@ -47,6 +47,7 @@ When I’m not analyzing datasets, you’ll probably find me brainstorming ideas
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/haquesunjida)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/sunjidahaque)
+[![Notion]https://chip-spruce-1a9.notion.site/Sunjida-Haque-2747c17502908037b0c4fb0404b9b745
 
 ---
 
