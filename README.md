@@ -45,8 +45,7 @@ When I’m not analyzing datasets, you’ll probably find me brainstorming ideas
 
 ## 🌐 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haquesunjida/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sunjida-haque)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haquesunjida/)   
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://chip-spruce-1a9.notion.site/Sunjida-Haque-2747c17502908037b0c4fb0404b9b745)
 
 
