@@ -31,7 +31,7 @@ When I’m not analyzing datasets, you’ll probably find me brainstorming ideas
 
 ## 💡 Technical Toolbox
 
-`MATLAB` · `Python` · `R` · `SQL` · `O365` · `Tableau` · `SAP ECC` · `STATA` · `KNIME`
+`MATLAB` · `Python` · `R` · `SQL` · `O365` · `Tableau` · `SAP ECC` · `STATA` · `KNIME`· `Power BI`· `Tableau`
 
 ---
 
